@@ -10,4 +10,4 @@ Click on the selected title and you will be taken to the bug presentation.
 
 [Pocket Diger](https://docs.google.com/presentation/d/15C8x0PASztpXxeo3Cfai_Nr_hBcm7jFtqOWRXcNMrP4/edit#slide=id.g11e4e39efba_0_1)
 
-[Tiny Titans - AFK Auto Battles](https://docs.google.com/presentation/d/15C8x0PASztpXxeo3Cfai_Nr_hBcm7jFtqOWRXcNMrP4/edit#slide=id.g11e4e39efba_0_1)
+[Tiny Titans - AFK Auto Battles](https://docs.google.com/presentation/d/15C8x0PASztpXxeo3Cfai_Nr_hBcm7jFtqOWRXcNMrP4/edit#slide=id.g11e839edf94_0_7)
